@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProjectUas</string>
+    <string name="login">USER LOGIN</string>
+    <string name="hname">Username</string>
+    <string name="hpass">Password</string>
+    <string name="hconfpass">Confirm Password</string>
+    <string name="blogin">LOGIN</string>
+    <string name="create">Create Account</string>
+    <string name="register">USER REGISTER</string>
+    <string name="backtologin">Back to Login</string>
+    <string name="judul">Bengkel</string>
+    <string name="pjeniskendaraan">Pilih Jenis Kendaraan Anda: </string>
+    <string name="pmodelkendaraan">Model dalam Jenis Kendaraan: </string>
+    <string name="btnlht">LIHAT</string>
+    <string name="isijenis">Jenis Kendaraan Anda: </string>
+    <string name="model">Model Kendaraan Anda: </string>
+    <string name="jns">[JENIS]</string>
+    <string name="mdl">[MODEL]</string>
+    <string name="pbagian">Pilih Bagian: </string>
+    <string name="btnlogout">LOG OUT</string>
+    <string name="btnexit">EXIT</string>
+
+    <string-array name="spinner1">
+        <item>Roda Dua</item>
+        <item>Roda Empat</item>
+    </string-array>
+
+</resources>

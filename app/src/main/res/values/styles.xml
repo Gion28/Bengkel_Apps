@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/crem</item>
+        <item name="colorPrimaryDark">@color/crem_muda</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/crem</item>
+        <item name="colorPrimaryDark">@color/crem_muda</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
